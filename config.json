@@ -1,0 +1,24 @@
+{
+    "params" :
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/codingthunder1",
+        "prod_uri": "mysql://root:@localhost/codingthunder1",
+        "prod_server": "False",
+        "fb_url" : "https://facebook.com/om.sai.794/",
+        "tw_url" : "https://twitter.com/opmishra08",
+        "gh_url" : "https://github.com/opmishra08",
+        "blog_name" : "Code Tsunami",
+        "tag_line": "Heaven for Programmers !",
+        "gmail-user" : "opmishra08@gmail.com",
+        "gmail-password": "azad123#",
+        "About-me": "Digital marketing is the component of marketing that utilizes internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services.[1][2] Its development during the 1990s and 2000s, changed the way brands and businesses use technology for marketing. As digital platforms became increasingly incorporated into marketing plans and everyday life,[3] and as people increasingly use digital devices instead of visiting physical shops,[4][5] digital marketing campaigns have become prevalent, employing combinations of search engine optimization (SEO), search engine marketing (SEM), content marketing, influencer marketing, content automation, campaign marketing, data-driven marketing, e-commerce marketing, social media marketing, social media optimization, e-mail direct marketing, display advertising, e–books, and optical disks and games have become commonplace. Digital marketing extends to non-Internet channels that provide digital media, such as television, mobile phones (SMS and MMS), callback, and on-hold mobile ring tones.[6] The extension to non-Internet channels differentiates digital marketing from online marketing.[7]",
+        "no_of_post": 3,
+        "login_image": "login.png",
+        "admin_user":"om",
+        "admin_password":"sub",
+        "upload_location":"D:\\OM\\FLASK\\static\\img"
+    }
+
+
+}
